@@ -1,7 +1,7 @@
 <div> 
 <div>(2020.03 ~  ) PNU / Polymer Science & Engineering
 <div>(2023.03 ~ 2023.12)  Apple Developer Academy @ POSTECH 2nd / iOS Developer</div>
-<div>(2024.04 ~ ) Kakao Tech Campus 2nd / FE</div>
+<div>(2024.04 ~ 2024.08) Kakao Tech Campus 2nd / FE</div>
 <div>(2024.07 ~ 2024.08) Allen's Swift Master BootCamp 35th</div>
 </div>
 
