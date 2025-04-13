@@ -2,12 +2,20 @@
 <div>(2020.03 ~  ) PNU / Polymer Science & Engineering
 <div>(2023.03 ~ 2023.12)  Apple Developer Academy @ POSTECH 2nd / iOS Developer</div>
 <div>(2024.04 ~ 2024.08) Kakao Tech Campus 2nd / FE</div>
-<div>(2024.07 ~ 2024.08) Allen's Swift Master BootCamp 35th</div>
 </div>
 
 ### ⎇ Tech
 <div>
+  <span style="display: flex; gap: 10px; align-items: center;">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+</span>
+
+  
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
+  
 </div>
 
 
