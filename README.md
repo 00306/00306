@@ -8,7 +8,6 @@
 <div>
   <span style="display: flex; gap: 10px; align-items: center;">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
 </span>
 
   ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%2354524F.svg?style=for-the-badge&logo=apple&logoColor=white)
